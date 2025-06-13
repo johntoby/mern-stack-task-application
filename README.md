@@ -217,3 +217,5 @@ docker-compose exec backend ping mongodb
 
 ## License
 MIT License - feel free to use this project for learning and development purposes.
+
+## Created by @johntoby June 2025.
